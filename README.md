@@ -9,7 +9,7 @@ Ce projet est une démonstration de l'utilisation de la bibliothèque Lux en Pyt
 
 ## Installation
 
-'''bash
+
 pip install lux-api
 pip install lux-widget
 pip install seaborn
